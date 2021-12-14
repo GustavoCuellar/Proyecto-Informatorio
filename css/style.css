@@ -168,7 +168,9 @@ nav .profile-link {
     font-size: 14px;
     border-radius: 7px;
 }
-
+.blog-main-container {
+    background-color: cornflowerblue;
+}
 footer {
     width: 100%;
     height: 80px;
